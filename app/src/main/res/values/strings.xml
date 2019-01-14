@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">sdkv3demo</string>
+    <string name="title_activity_add_marker">AddMarkerActivity</string>
+</resources>
